@@ -1,0 +1,81 @@
+[1]	CHENG T, et al. YOLO-World: Real-Time Open-Vocabulary Object Detection[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 16901-16911. 
+[2]	LI C, et al. YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications [J]. arXiv preprint arXiv:2209.02976, 2022.
+[3]	WANG C, et al. YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 7464-7475.
+[4]	REIS D, et al. Real-Time Flying Object Detection with YOLOv8[J]. arXiv preprint arXiv:2305.09972, 2023.
+[5]	LIU Y, et al. Continual Detection Transformer for Incremental Object Detection[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 23799-23808.
+[6]	KIRILLOV A, et al. Segment Anything[C]. Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 4015-4026.
+[7]	JOSEPH, K. J., et al. Towards Open World Object Detection[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 5830-5840.
+[8]	GUPTA A, et al. OW-DETR: Open-World Detection Transformer[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 9235-9244. 
+[9]	LIU S, et al. Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection[C]. European Conference on Computer Vision. 2024: 38-55.
+[10]	RAVI N, GABEUR V, Hu Y T, et al. Sam 2: Segment Anything in Images and Videos[J]. arXiv preprint arXiv:2408.00714, 2024.
+[11]	ZHAO X, et al. Fast Segment Anything[C]. In Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 4015-4026.
+[12]	FENG T, WANG M, YUAN H. Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 9427-9436.
+[13]	KAMATH A, et al. MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding[C]. Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 1780-1790.
+[14]	LI L, et al. Grounded Language-Image Pre-Training[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 10965-10975.
+[15]	ZHOU Z, et al. ZegCLIP: Towards Adapting CLIP for Zero-Shot Semantic Segmentation[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 11175-11185.
+[16]	林钰尧,杜飞,杨云.持续学习：研究综述[J].云南大学学报(自然科学版),2023(2): 284-297.
+[17]	BENDALE A, BOULT T. Towards Open World Recognition[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 1893-1902.
+[18]	WANG CY, YEH IH, MARK L. YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information[C]. European Conference on Computer Vision. Cham: Springer Nature Switzerland. 2024: 1-21.
+[19]	REDMON J. YOLOv3: An Incremental Improvement[J]. arXiv preprint arXiv:1804.02767, 2018.
+[20]	GIRSHICK R, et al. Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2014: 580-587.
+[21]	WU J, et al. General Object Foundation Model for Images and Videos at Scale[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 3783-3795.
+[22]	ZHOU D, et al. IoU Loss for 2D/3D Object Detection[C]. 2019 International Conference on 3D Vision (3DV). IEEE, 2019: 85-94.
+[23]	G. Albert, D. Tri. Mamba: Linear-Time Sequence Modeling with Selective State Spaces[J]. arXiv preprint arXiv:2312.00752, 2023.
+[24]	ZHENG Z, et al. Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression[C]. Proceedings of the AAAI Conference on Artificial Intelligence. 2020: 12993-13000.
+[25]	LIU Y, CONG Y, et al. Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection[C]. Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 11367-11377.
+[26]	LIU C, et al. Powerful-IoU: More Straightforward and Faster Bounding Box Regression Loss with a Nonmonotonic Focusing Mechanism[C]. Neural Networks, 2024: 276-284.
+[27]	ZHENG , et al. Enhancing Geometric Factors in Model Learning and Inference for Object Detection and Instance Segmentation[J]. IEEE Transactions on Cybernetics, 2021, 52.8: 8574-8586.
+[28]	张东阳,陆子轩,刘军民,等.深度模型的持续学习综述：理论、方法和应用[J].电子与信息学报,2024,46(10): 3849-3878.
+[29]	F. C., et al. TOOD: Task-Aligned One-Stage Object Detection[C]. 2021 IEEE/CVF International Conference on Computer Vision (ICCV). IEEE Computer Society, 2021: 3490-3499.
+[30]	Banner R, et al. Post Training 4-Bit Quantization of Convolutional Networks for Rapid-Deployment[C]. Advances in Neural Information Processing Systems, 2019, 32.
+[31]	ZHANG Hao, et al. DINO: DETR with Improved Denoising Anchor Boxes for End-to-End Object Detection[J]. International Conference on Learning Representations, 2023: 13619-13627.
+[32]	WANG A, et al. YOLOv10: Real-Time End-to-End Object Detection[C]. Advances in Neural Information Processing Systems. 2024: 107984-108011. 
+[33]	LI F, et al. Dn-DETR: Accelerate DETR Training by Introducing Query Denoising. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 13619-13627. 
+[34]	HU E J, et al. LoRA: Low-Rank Adaptation of Large Language Models[C]. International Conference on Learning Representations, 2022: 3-10.
+[35]	LECUN Y, et al. Gradient-Based Learning Applied to Document Recognition[C]. Proceedings of the IEEE, 1998: 2278-2324.
+[36]	Dosovitskiy A. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale[J]. arXiv preprint arXiv:2010.11929, 2020.
+[37]	REZATOFIGHI H, et al. Generalized Intersection Over Union: A Metric and a Loss for Bounding Box Regression[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019: 658-666.
+[38]	Gu A, Goel K, et al. Efficiently Modeling Long Sequences with Structured State Spaces[C]. In Proceedings of the AAAI Conference on Artificial Intelligence. 2021: 11106-11115.
+[39]	ZHU L, et al. Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model[J]. arXiv preprint arXiv:2401.09417, 2024.
+[40]	GU A, et al. Hippo: Recurrent Memory with Optimal Polynomial Projections[C]. Advances in Neural Information Processing Systems, 2020: 1474-1487.
+[41]	崔雨.基于深度学习的开放世界目标检测方法研究[D].太原科技大学, 2024.000341.
+[42]	LI Z; HOIEM, Derek. Learning Without Forgetting[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017, 40.12: 2935-2947.
+[43]	LI D, et al. RILOD: Near Real-Time Incremental Learning for Object Detection at the Edge[C]. Proceedings of the 4th ACM/IEEE Symposium on Edge Computing. 2019: 113-126.
+[44]	PENG C, et al. SID: Incremental Learning for Anchor-Free Object Detection via Selective and Inter-Related Distillation[C]. Computer Vision and Image Understanding, 2021, 210: 103229.
+[45]	NAGEL M, et al. Data-Free Quantization Through Weight Equalization and Bias Correction[C]. Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 1325-1334.
+[46]	Karpathy A, et al. Deep Fragment Embeddings for Bidirectional Image Sentence Mapping[C]. Advances in Neural Information Processing Systems, 2014, 27.
+[47]	张文卓,崔家宝,孙毅,等.持续学习的研究进展及在无人平台中的应用[J].无人系统技术,2024(2): 1-13.
+[48]	CHO J, YOON Y, KWAK S. Collaborative Transformers for Grounded Situation Recognition[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 19659-19668.
+[49]	Rozenberszki D, Litany O, Dai A. Language-Grounded Indoor 3D Semantic Segmentation in the Wild[C]. European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022: 125-141.
+[50]	Duan K, et al. CenterNet: Keypoint Triplets for Object Detection[C]. Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 6569-6578.
+[51]	TIAN Z, et al. FCOS: A Simple and Strong Anchor-Free Object Detector.[J] IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020, 44.4: 1922-1933.
+[52]	Hall D, et al. Probabilistic Object Detection: Definition and Evaluation[C]. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020: 1031-1040.
+[53]	LIU W, et al. Large-Margin Softmax Loss for Convolutional Neural Networks[J]. arXiv preprint arXiv:1612.02295, 2016.
+[54]	LIN T. Focal Loss for Dense Object Detection[C]. In Proceedings of the IEEE International Conference on Computer Vision. 2017: 2980-2988.
+[55]	Vaswani A. Attention Is All You Need[C]. Advances in Neural Information Processing Systems, 2017.
+[56]	CHO K. Learning Phrase Representations Using RNN Encoder-Decoder for Statistical Machine Translation[J]. arXiv preprint arXiv:1406.1078, 2014.
+[57]	Zaremba W. Recurrent Neural Network Regularization[J]. arXiv preprint arXiv:1409.2329, 2014.
+[58]	Graves A, et al. Long Short-Term Memory[C]. Supervised Sequence Labelling with Recurrent Neural Networks, 2012: 37-45.
+[59]	CHUNG J, et al. Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling[J]. arXiv preprint arXiv:1412.3555, 2014.
+[60]	Neubeck A; VAN GOOL, Luc. Efficient Non-Maximum Suppression[C]. 18th International Conference on Pattern Recognition (ICPR'06). IEEE, 2006: 850-855.
+[61]	HE K, et al. Deep Residual Learning for Image Recognition[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 770-778.
+[62]	Simonyan K. Very Deep Convolutional Networks for Large-Scale Image Recognition[J]. arXiv preprint arXiv:1409.1556, 2014.
+[63]	LIU S, et al. Path Aggregation Network for Instance Segmentation[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 8759-8768.
+[64]	Radford A. Improving Language Understanding by Generative Pre-Training[DB/CD]. https://openai.com/index/language-unsupervised, 2018.
+[65]	Devlin J, et al. BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding[C]. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 2019: 4171-4186.
+[66]	LI X, et al. Generalized Focal Loss: Towards Efficient Representation Learning for Dense Object Detection[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022, 45.3: 3139-3153.
+[67]	Sun P, et al. Sparse R-CNN: End-to-End Object Detection with Learnable Proposals[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 14454-14463.
+[68]	WANG N, et al. NAS-FCOS: Fast Neural Architecture Search for Object Detection[C]. proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 11943-11951.
+[69]	ZHU X, et al. Deformable DETR: Deformable Transformers for End-to-End Object Detection[J]. arXiv preprint arXiv:2010.04159, 2020.
+[70]	Khanam R, Muhammad M. YOLOv11: An Overview of the Key Architectural Enhancements[J]. arXiv preprint arXiv:2410.17725, 2024.
+[71]	CARION N, et al. End-to-End Object Detection with Transformers[C]. European Conference on Computer Vision. Cham: Springer International Publishing, 2020: 213-229.
+[72]	Zareian A, Rosa K D, Hu D H, et al. Open-Vocabulary Object Detection Using Captions[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 14393-14402.
+[73]	Kim J, Cho H, Kim J, et al. SDDGR: Stable Diffusion-Based Deep Generative Replay for Class Incremental Object Detection[C]. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 28772-28781.
+[74]	HE K, et al. Mask R-CNN[C]. Proceedings of the IEEE International Conference on Computer Vision. 2017: 2961-2969.
+[75]	Liu Z, Lin Y, Cao Y, et al. Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows[C]. Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 10012-10022.
+[76]	LIN T. Focal Loss for Dense Object Detection[C]. proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 2980-2988.
+[77]	Ren S, et al. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2016, 39.6: 1137-1149.
+[78]	Chen T, et al., NeuroPilot: A Cross-Platform Framework for Edge-AI[C]，2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2019: 167-170.
+[79]	Karpathy A, et al. Deep Visual-Semantic Alignments for Generating Image Descriptions[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 3128-3137.
+[80]	范樱子.基于域适应和持续学习的多领域显著性目标检测[D].西安电子科技大学,2023.002378.
+[81]	TIAN Y, et al. YOLOv12: Attention-Centric Real-Time Object Detectors[J]. arXiv preprint arXiv:2502.12524. 

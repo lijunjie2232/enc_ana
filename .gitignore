@@ -172,3 +172,22 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+*__pycache__/
+*.egg-info/
+build/
+**.so
+*.hip
+*_hip.*
+dataset/
+pkg/
+rs
+weight/
+.vscode/
+.github/
+**/data
+**/dataset
+/dataset/
+**/checkpoints/
+**/*result
+**/*results
